@@ -1,0 +1,54 @@
+/* Header styles */
+header {
+  background-color: #004d99;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+
+
+/* Main CTA Button */
+.cta-button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Typography */
+h2 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+/* Navigation Banner */
+#mainHeader {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Event Cards */
+.eventCard {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #fff;
+}
+
+/* Grouped styles */
+h3, p {
+  margin-bottom: 10px;
+}
